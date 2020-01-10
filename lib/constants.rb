@@ -4,7 +4,7 @@ module Constants
   BUILD_MEETINGS = 2
   PRE_MEETINGS = 1
   PRE_HOURS = 25
-  DEFAULT_LOGIN = "mhossain@hsforctea.org"
+  DEFAULT_LOGIN = "robologin@hsforctea.org"
   TEAM_NAME = 'Roaring Redhawk Robotics'
   TEAM_NUMBER = '16798'
   SCHOOL_NAME_REPLACEMENT = 'School'
