@@ -4,9 +4,9 @@ module Constants
   BUILD_MEETINGS = 2
   PRE_MEETINGS = 1
   PRE_HOURS = 25
-  DEFAULT_LOGIN = "signup@team900.org"
-  TEAM_NAME = 'Zebracorns'
-  TEAM_NUMBER = '900'
+  DEFAULT_LOGIN = "mhossain@hsforctea.org"
+  TEAM_NAME = 'Roaring Redhawk Robotics'
+  TEAM_NUMBER = '16798'
   SCHOOL_NAME_REPLACEMENT = 'School'
   GENDERS = ['Male', 'Female', 'Other']
   FRESHMAN_HOURS = 6
